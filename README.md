@@ -41,7 +41,7 @@ print("Account",regr.predict([[3300,1300]]))
 
 ```
 ## Output:
-![output](/Screenshot%202023-12-24%20111326.png)
+![output](/Screenshot%202023-12-24%20112854.png)
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
